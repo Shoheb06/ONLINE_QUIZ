@@ -2,14 +2,14 @@
 It is an online web application project where the user can play quizzes online is built using HTML, CSS, Javascript, JSON, API An API was used to generate random quiz question open trivia API was used to generate question
 Sure, here's a revised version with an introductory section before the images:
 
-```markdown
+
 # Online Quiz Web Application
 
 ## Introduction
 Welcome to the Online Quiz Web Application! This project allows users to enjoy a variety of quizzes online,Whether you're looking to test your knowledge or simply have some fun, this web app has something for everyone.
 
 This project is built using HTML, CSS, and JavaScript, with JSON data and an API utilized to generate random quiz questions. Specifically, the Open Trivia API was used to fetch questions, ensuring a diverse and engaging experience for players.
-```
+
 ## Screenshots
 1. **Home Page**
    ![Screenshot 2024-01-27 164342](https://github.com/Shoheb06/ONLINE_QUIZ/assets/135418113/6d8ac3c9-527b-4d80-a205-5c6185b1e5f1)
